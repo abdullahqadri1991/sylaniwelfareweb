@@ -1,0 +1,181 @@
+.header_box {
+    background-color: hsla(0, 0%, 97%, 0.799);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(238, 236, 236, 0.466);
+    padding: 10px 50px;
+    position: absolute;
+    margin-top: 80px;
+    text-align: center;
+    color: rgb(9, 9, 9);
+
+}
+
+.donerdashboard {
+    background-color: rgba(255, 255, 255, 0.283);
+    height: 80px;
+    */ /border: 1px solid #8dc63f;
+    border-radius: 20px;
+    padding: 10px 20px;
+    width: -webkit-fit-content !important;
+    margin-top: 10px;
+
+}
+
+.welcome {
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.pearcolor {
+    color: yellowgreen;
+}
+
+.pic1 {
+    margin-left: 600px;
+    position: relative;
+    bottom: 360px;
+    left: 150px;
+    transform: ;
+}
+
+.pic2 {
+    margin-left: 600px;
+    position: relative;
+    bottom: 170px;
+}
+
+.input {
+    padding: 11px;
+    width: 200px;
+}
+
+.Donationbox {
+    width: 80%;
+    height: 150px;
+    background-color: rgba(182, 239, 73, .2);
+    border: 1px solid black;
+    position: absolute;
+    top: 700px;
+    left: 100px;
+    margin-left: 80px;
+    padding-top: 17px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-left: 20px;
+}
+
+.doing {
+    margin-left: 600px;
+    position: relative;
+    bottom: 150px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: initial;
+}
+
+.card {
+    background-color: rgba(181, 239, 73, 0.345);
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    margin-left: 100px;
+
+}
+
+.card:hover {
+    background-color: rgba(182, 239, 73, .2);
+    border-radius: 10px;
+    color: #424242;
+    cursor: default;
+    text-align: center;
+    transform: scale(1.1);
+}
+.bigcardimg{
+    position: relative;
+    bottom: 40px;
+} 
+.box1{
+margin-left: 40px;
+}
+.box1:hover{
+    margin-left: 40px;
+    transform: scale(1.1);
+
+    }
+
+.it{
+    position: relative;
+    bottom:150px;
+text-align: center;
+color: aliceblue;   
+font-weight: bold;
+font-size: 30px;
+}
+
+.btn2{
+    position: relative;
+    bottom:130px;
+    border-radius: 20px;
+}
+.textbox{
+width: 300px;
+height: 300px;
+flex-wrap: wrap;
+background-color: yellowgreen;
+border-top-left-radius: 30px;
+padding: 30px;
+font-size: 28px;
+font-weight: bold;
+position: relative;
+margin: 40px;
+}
+
+
+.Sylanidastarkhowan{
+    margin-left: 40px;
+    position: absolute;
+    top: 2300px;
+    
+   
+
+}
+.OtherProject{
+ flex-direction: column;
+ margin-left: 400px;
+ flex-wrap: wrap;
+}
+.theysay{
+    width: 80%;
+    height: 300px;
+    text-align: center;
+    margin-left: 150px;
+    background-color: #42424271;
+}
+
+.WhatTheySay{
+    width: 100px;
+    height: 100px;
+    clip-path: circle(50% at 50% 50%);
+margin-top: 40px;
+margin-left: 550px;
+
+
+}
+.Guide{
+    display: flex;
+    position: absolute;
+    margin-left: 600px;
+    margin-bottom: 800px;
+}
+
+.footer{
+    background-color: #424242;
+    margin-top: 10px;
+    color: aliceblue;
+
+}
